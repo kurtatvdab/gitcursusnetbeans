@@ -17,7 +17,7 @@ public class Gitcursus {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("bonjour");
+        System.out.println("hallo iedereen");
     }
     
 }
